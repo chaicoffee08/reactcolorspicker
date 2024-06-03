@@ -1,0 +1,11 @@
+commit c358775e0e23e32f47085df1fefc34e38ab0b6be
+Author: Colt Steele <coltsteele1@gmail.com>
+Date:   Mon Apr 15 20:13:06 2019 -0700
+
+    Create README.md
+
+commit 39328297e6344638632f3ed79c473c416a08ba1d
+Author: Colt Steele <colt@steele.com>
+Date:   Wed Mar 20 23:12:15 2019 -0700
+
+    Prevent duplicate random colors
